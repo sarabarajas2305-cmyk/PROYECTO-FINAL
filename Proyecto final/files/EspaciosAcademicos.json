@@ -1,0 +1,122 @@
+[
+    {
+        "codigo": "LC101",
+        "nombre": "Lógica Computacional",
+        "creditos": 3,
+        "semestre": 2
+    },
+    {
+        "codigo": "MAT101",
+        "nombre": "Matemáticas Discretas",
+        "creditos": 3,
+        "semestre": 1
+    },
+    {
+        "codigo": "PROG101",
+        "nombre": "Programación I",
+        "creditos": 4,
+        "semestre": 3
+    },
+    {
+        "codigo": "BD101",
+        "nombre": "Introducción a Bases de Datos",
+        "creditos": 3,
+        "semestre": 4
+    },
+    {
+        "codigo": "IA101",
+        "nombre": "Fundamentos de Inteligencia Artificial",
+        "creditos": 3,
+        "semestre": 4
+    },
+    {
+        "codigo": "EST101",
+        "nombre": "Estadística Básica",
+        "creditos": 3,
+        "semestre": 2
+    },
+    {
+        "codigo": "ALG101",
+        "nombre": "Algoritmos",
+        "creditos": 3,
+        "semestre": 4
+    },
+    {
+        "codigo": "SO101",
+        "nombre": "Sistemas Operativos",
+        "creditos": 3,
+        "semestre": 2
+    },
+    {
+        "codigo": "RED101",
+        "nombre": "Redes de Computadores",
+        "creditos": 3,
+        "semestre": 1
+    },
+    {
+        "codigo": "ETL101",
+        "nombre": "Fundamentos de ETL y Datos",
+        "creditos": 2,
+        "semestre": 3
+    },
+    {
+        "codigo": "PROG102",
+        "nombre": "Programación II",
+        "creditos": 4,
+        "semestre": 1
+    },
+    {
+        "codigo": "MAT102",
+        "nombre": "Álgebra Lineal",
+        "creditos": 3,
+        "semestre": 2
+    },
+    {
+        "codigo": "BD102",
+        "nombre": "Modelado de Datos",
+        "creditos": 3,
+        "semestre": 4
+    },
+    {
+        "codigo": "IA102",
+        "nombre": "Machine Learning I",
+        "creditos": 3,
+        "semestre": 2
+    },
+    {
+        "codigo": "EST102",
+        "nombre": "Probabilidad",
+        "creditos": 3,
+        "semestre": 1
+    },
+    {
+        "codigo": "ALG102",
+        "nombre": "Estructuras de Datos",
+        "creditos": 3,
+        "semestre": 3
+    },
+    {
+        "codigo": "SO102",
+        "nombre": "Administración de Sistemas",
+        "creditos": 3,
+        "semestre": 4
+    },
+    {
+        "codigo": "RED102",
+        "nombre": "Seguridad en Redes",
+        "creditos": 3,
+        "semestre": 4
+    },
+    {
+        "codigo": "ETL102",
+        "nombre": "Procesamiento de Datos",
+        "creditos": 2,
+        "semestre": 4
+    },
+    {
+        "codigo": "DS101",
+        "nombre": "Introducción a Ciencia de Datos",
+        "creditos": 3,
+        "semestre": 3
+    }
+]
